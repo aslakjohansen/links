@@ -12,3 +12,7 @@
 
 - [Storage Review](https://www.storagereview.com)
 
+## Processors
+
+- [WikiChip](https://en.wikichip.org/wiki/WikiChip)
+
