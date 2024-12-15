@@ -8,5 +8,5 @@
 
 ## Tripods
 
-- [The Center Column](https://thecentercolumn.com/)
+- [The Center Column](https://thecentercolumn.com)
 
