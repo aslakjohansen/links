@@ -10,3 +10,11 @@
 
 - [The Center Column](https://thecentercolumn.com)
 
+## Equipment
+
+Systems:
+- [Fujifilm X Mount](https://fujifilm-x.com)
+
+Lenses:
+- [Viltrox](https://viltrox.com)
+
