@@ -21,3 +21,8 @@
 - [Hardkernel](https://www.hardkernel.com)
 - [Pine 64](https://pine64.com) They seem to have stalled.
 
+## RISC-V
+
+- [MILK-V](https://milkv.io)
+- [Deep Computing](https://deepcomputing.io)
+
