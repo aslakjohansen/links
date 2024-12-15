@@ -1,5 +1,8 @@
 # Hardware Links
 
+Fairly generic review sites:
+- [RTINGS.com](https://www.rtings.com)
+
 ## General Review Sites
 
 - [Igor's LAB](https://www.igorslab.de/en/)
