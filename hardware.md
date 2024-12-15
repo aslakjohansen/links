@@ -23,6 +23,8 @@ Fairly generic review sites:
 
 - [Hardkernel](https://www.hardkernel.com)
 - [Pine 64](https://pine64.com) They seem to have stalled.
+- [Compute Blade](https://computeblade.com) Raspberry Pi Compute Module 4/5 blades.
+- [Turing Pi](https://turingpi.com) Mini cluster boards for Raspberry Pi and RK3588 compute modules.
 
 ## RISC-V
 
