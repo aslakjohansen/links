@@ -30,4 +30,5 @@ Fairly generic review sites:
 
 - [MILK-V](https://milkv.io)
 - [Deep Computing](https://deepcomputing.io)
+- [Sipeed Lichee](https://sipeed.com/licheepi4)
 
