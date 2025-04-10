@@ -10,6 +10,8 @@ Fairly generic review sites:
 ## Silence
 
 -[Silent PC Review](https://silentpcreview.com) Not sure about the relaunch, but the forums are still there.
+- [Noctua](https://noctua.at) Low-noise fans and coolers.
+- [Fractal Design](https://www.fractal-design.com) Cases like their *Define* series.
 
 ## Storage: Harddrives and SDDs
 
