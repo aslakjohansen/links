@@ -21,6 +21,10 @@ Fairly generic review sites:
 
 - [WikiChip](https://en.wikichip.org/wiki/WikiChip)
 
+## Power Supplies
+
+- [Cybenetics](https://www.cybenetics.com/index.php?option=power-supplies)
+
 ## Single Board Computers (SBCs)
 
 - [Hardkernel](https://www.hardkernel.com)
